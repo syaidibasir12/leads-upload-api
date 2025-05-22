@@ -1,0 +1,4 @@
+pandas
+requests
+certifi
+openpyxl  # needed for reading Excel files
